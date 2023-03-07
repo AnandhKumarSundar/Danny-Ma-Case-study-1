@@ -1,5 +1,15 @@
-# Danny-Ma-Case-study-1
+🍜 Case Study #1: Danny's Dinner
+![image](https://user-images.githubusercontent.com/126285330/223435399-e657b9ee-b988-46fd-b14d-a1e0b41987d7.png)
+
+
+Business Task
+Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
+
+Entity Relationship Diagram
+![image](https://user-images.githubusercontent.com/126285330/223435193-41599e43-5a30-4334-9e91-253009186ebd.png)
+
 CASE STUDY Questions
+
 1.What is the total amount each customer spent at the restaurant?
 2.How many days has each customer visited the restaurant?
 3.What was the first item from the menu purchased by each customer?
