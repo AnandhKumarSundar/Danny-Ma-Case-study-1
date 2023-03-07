@@ -12,7 +12,6 @@ Entity Relationship Diagram
 ![image](https://user-images.githubusercontent.com/126285330/223435193-41599e43-5a30-4334-9e91-253009186ebd.png)
 
 CASE STUDY Questions
-
 1.What is the total amount each customer spent at the restaurant?
 2.How many days has each customer visited the restaurant?
 3.What was the first item from the menu purchased by each customer?
