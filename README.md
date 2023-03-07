@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/126285330/223435399-e657b9ee-b988-46fd-b14d-a1e0b41987d7.png)
 
 
+
 Business Task
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 
