@@ -4,17 +4,16 @@
 Table of Contents
 
 •	Business Task
-
 •	Entity Relationship Diagram
-
 •	Case Study Questions
-
 •	Solution on Github
 
 Business Task
+
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 
 Entity Relationship Diagram
+
 ![image](https://user-images.githubusercontent.com/126285330/223435193-41599e43-5a30-4334-9e91-253009186ebd.png)
 
 Case Study Questions
