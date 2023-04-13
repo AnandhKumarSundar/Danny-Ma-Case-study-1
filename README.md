@@ -2,9 +2,13 @@
 ![image](https://user-images.githubusercontent.com/126285330/223435399-e657b9ee-b988-46fd-b14d-a1e0b41987d7.png)
 
 Table of Contents
+
 •	Business Task
+
 •	Entity Relationship Diagram
+
 •	Case Study Questions
+
 •	Solution on Github
 
 Business Task
