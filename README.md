@@ -4,8 +4,11 @@
 Table of Contents
 
 •	Business Task
+
 •	Entity Relationship Diagram
+
 •	Case Study Questions
+
 •	Solution on Github
 
 Business Task
@@ -29,5 +32,6 @@ Case Study Questions
 10.	In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
  	           
 Solution on Github
+
 Danny Dinner.sql
 
